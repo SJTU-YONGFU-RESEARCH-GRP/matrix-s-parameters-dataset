@@ -1,0 +1,18 @@
+{
+  "matrix_digest": "a2007a585c030f9bc5af50ceeb1cf48cda7f8d1d33fbb6ef0e9d07aad0af3379",
+  "layout_mask": {
+    "enabled": false,
+    "family": [
+      "T",
+      "L",
+      "U",
+      "Z"
+    ],
+    "random_transform": true,
+    "allow_rotations": true,
+    "allow_reflections": true,
+    "fill_probability_min": 0.2,
+    "fill_probability_max": 0.8,
+    "thickness_px": 1
+  }
+}
