@@ -1,0 +1,33 @@
+{
+  "port1_pixel": [
+    14,
+    0
+  ],
+  "port2_pixel": [
+    6,
+    19
+  ],
+  "port1_mm": [
+    -0.95,
+    -0.45
+  ],
+  "port2_mm": [
+    0.9500000000000002,
+    0.3499999999999999
+  ],
+  "boundary_port_mm": [
+    [
+      -0.25,
+      1.0
+    ],
+    [
+      0.4500000000000002,
+      1.0
+    ],
+    [
+      1.0,
+      0.35
+    ]
+  ],
+  "record_dir": "/home/yongfu/proj/matrix-s-parameters-dataset/artifacts/datasets/records/6c5a654ace86/fb21da160f223d22"
+}
