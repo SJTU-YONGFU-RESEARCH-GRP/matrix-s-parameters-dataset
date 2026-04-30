@@ -1,0 +1,6 @@
+{
+  "stack_config_path": "configs/stack_configs.toml",
+  "substrate_eps_r": 4.3,
+  "substrate_thickness_mm": 1.6,
+  "cell_size_mm": 0.1
+}
